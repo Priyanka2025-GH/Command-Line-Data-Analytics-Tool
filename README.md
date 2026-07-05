@@ -1,2 +1,20 @@
-# Command-Line-Data-Analytics-Tool
-A Python command-line data analytics tool that allows users to load and explore CSV files. It provides data preview, numeric column analysis (sum, average, minimum, maximum, and count), missing value detection, and a simple menu-driven interface with basic error handling for an easy and user-friendly data analysis experience.
+# Command-Line Data Analytics Tool
+
+A Python-based command-line application for analyzing CSV files. It allows users to preview datasets, analyze numeric columns (sum, average, minimum, maximum, and count), and check for missing values through a simple menu-driven interface with basic error handling.
+
+## Technologies
+
+* Python
+* CSV Module
+
+## Features
+
+* Load CSV files
+* Preview data
+* Analyze numeric columns
+* Check missing values
+* Menu-driven interface
+
+## Author
+
+**Priyanka Tarwade**
